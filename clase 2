@@ -1,0 +1,32 @@
+objetos = {
+    "ID": [1, 2, 3, 4, 5, 6, 7],
+    "Objeto": [
+        "Cubo Rubik",
+        "Peluche",
+        "Pote como de masa",
+        "Tuerca",
+        "Lapicera",
+        "Aro de plástico",
+        "Libro"
+    ],
+    "Material": [
+        "Plástico",
+        "Tela",
+        "Plástico",
+        "Metal",
+        "Plástico",
+        "Plástico",
+        "Papel"
+    ],
+    "Tamaño": [
+        "Mediano",
+        "Grande",
+        "Mediano",
+        "Pequeño",
+        "Pequeño",
+        "Mediano",
+        "Grande"
+    ],
+    "Cantidad de partes": [26, 2, 1, 1, 3, 1, 200],
+    "Peso (g)": [90.5, 150.2, 45.8, 30.4, 12.6, 25.3, 350.7]
+}
