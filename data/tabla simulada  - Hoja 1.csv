@@ -1,0 +1,11 @@
+id,frecuencia,prod_cafe,prod_comida,prod_frias,prod_otros,atencion,pago_efectivo,pago_tarjeta,pago_transferencia,estudiante,edad,mejora
+1,1 a 3 veces,1,0,1,0,4,1,1,0,TRUE,21,Más variedad de opciones sin gluten
+2,Más de 8 veces,1,1,1,1,5,0,1,1,TRUE,23,Bajar un poco los precios
+3,Nunca,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,20,NA
+4,4 a 8 veces,1,1,0,0,3,1,0,0,FALSE,35,Que abra más temprano
+5,1 a 3 veces,0,1,0,1,4,0,1,0,TRUE,22,Ampliar el espacio para sentarse
+6,Nunca,NA,NA,NA,NA,NA,NA,NA,NA,FALSE,40,NA
+7,Más de 8 veces,1,0,1,0,2,1,1,0,TRUE,19,"Mejorar la atención, a veces tardan mucho"
+8,4 a 8 veces,1,1,1,0,5,0,1,1,TRUE,24,"Todo bien, ningún cambio"
+9,1 a 3 veces,0,0,1,1,3,1,0,0,FALSE,29,Opciones más saludables
+10,Nunca,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,18,NA

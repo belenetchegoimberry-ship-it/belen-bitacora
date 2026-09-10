@@ -1,0 +1,9 @@
+Variable,Tipo,Valores,Faltante,preguntas 
+id,entero,"1, 2, …",no admite,
+frecuencia,ordinal,Nunca < 1 a 3 veces < 4 a 8 veces < Más de 8 veces,NA,¿Con qué frecuencia visitás la cafetería de la facultad?
+"prod_cafe, prod_comida, prod_frias, prod_otros",binaria (x4),"0, 1",NA si frecuencia = Nunca,¿Qué productos consumís habitualmente en la cafetería?
+atencion,ordinal,1 < 2 < 3 < 4 < 5,NA si frecuencia = Nunca,"En una escala de 1 a 5, ¿cómo calificarías la atención recibida?"
+"pago_efectivo, pago_tarjeta, pago_transferencia",binaria (x3),"0, 1",NA si frecuencia = Nunca,¿Qué medios de pago solés usar en la cafetería?
+estudiante,binaria,"TRUE, FALSE",NA,¿Sos estudiante de esta facultad?
+edad,cuantitativa,años,NA,¿Qué edad tenés?
+mejora,texto,libre,vacío,¿Qué le mejorarías a la cafetería?
